@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CaixaSoft.Models",
+    "\\CaixaSoft.TestLayer\\Context"
   ],
+  "SelectedNode": "\\CaixaSoft.Models\\Client.cs",
   "PreviewInSolutionExplorer": false
 }
